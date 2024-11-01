@@ -1,0 +1,6 @@
+l,301,0610 Input Invalid
+301 TerminalE TerminalF 40 2.50
+06:00 06:30
+TerminalE District4
+1 301
+0

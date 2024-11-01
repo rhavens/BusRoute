@@ -1,0 +1,9 @@
+101 TerminalA TerminalB 30 1.50
+06:00 08:00
+TerminalA District1
+1 101
+0
+District1 2 1
+District2 1 1
+District3 0 1
+101 102 2.75

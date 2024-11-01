@@ -1,0 +1,9 @@
+e
+t,TerminalE,District4
+t,TerminalF,District4
+b,301,TerminalE,TerminalF,40,2.50
+l,301,0600
+l,301,0610
+l,301,0630
+B,301
+T,TerminalE

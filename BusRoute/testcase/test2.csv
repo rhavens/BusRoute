@@ -1,0 +1,8 @@
+e
+t,TerminalX,DistrictX
+t,TerminalY,DistrictY
+b,201,TerminalX,TerminalY,45,2.00
+l,201,3100
+l,201,2359
+B,201
+C,TerminalX,TerminalY

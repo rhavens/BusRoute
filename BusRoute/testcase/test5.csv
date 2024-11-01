@@ -1,0 +1,13 @@
+e
+t,TerminalJ,District7
+t,TerminalK,District8
+t,TerminalL,District9
+b,501,TerminalJ,TerminalK,20,2.00
+l,501,0700
+l,501,0730
+b,502,TerminalK,TerminalL,30,2.50
+l,502,0755
+l,502,0810
+b,503,TerminalJ,TerminalL,60,4.00
+l,503,0805
+F,TerminalJ,TerminalL,0730

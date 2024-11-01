@@ -1,0 +1,11 @@
+e
+t,TerminalG,District5
+t,TerminalH,District6
+t,TerminalI,District5
+b,401,TerminalG,TerminalH,50,3.00
+l,401,0800
+b,402,TerminalH,TerminalI,60,3.50
+l,402,0930
+D
+C,TerminalG,TerminalI
+C,TerminalI,TerminalG

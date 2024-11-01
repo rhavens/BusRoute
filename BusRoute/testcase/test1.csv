@@ -1,0 +1,16 @@
+e
+t,TerminalA,District1
+t,TerminalB,District2
+t,TerminalC,District1
+t,TerminalD,District3
+b,101,TerminalA,TerminalB,30,1.50
+b,102,TerminalB,TerminalC,25,1.25
+b,103,TerminalC,TerminalD,35,1.75
+l,101,0600
+l,101,0800
+l,102,0700
+l,103,0900
+B,101
+T,TerminalA
+D
+C,TerminalA,TerminalC
